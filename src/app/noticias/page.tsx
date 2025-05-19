@@ -1,71 +1,57 @@
-// Conteúdo da página de Notícias: /home/ubuntu/rededepalpites-mvp/src/app/noticias/page.tsx
+// Conteúdo atualizado da página de Notícias
 
 const article = {
   title:
-    "Mercado da Bola Ferve: Guedes na Mira do Corinthians, Flamengo e Atlético-MG - Quem Leva o Craque?",
+    "Senador Defende Proibição Total das Bets e Critica Influência no Futebol Brasileiro",
   introParagraphs: [
-    "O mercado da bola brasileiro está pegando fogo neste meio de temporada de 2025, e um nome em particular tem sido o epicentro de uma verdadeira disputa de gigantes: Roger Guedes. O atacante, que atualmente defende as cores do Al-Rayyan, do Catar, já sinalizou seu desejo de retornar ao futebol brasileiro, e a notícia caiu como uma bomba (positiva!) para as torcidas de Corinthians, Flamengo e Atlético-MG, clubes que aparecem como principais interessados em repatriar o talentoso jogador.",
-    "O RedeDePalpites mergulhou fundo nessa história para trazer todos os detalhes, analisar os cenários e, claro, esquentar o debate: qual camisa Roger Guedes vestirá em seu provável retorno ao Brasil?",
+    'O debate sobre as apostas esportivas no Brasil ganhou um novo capítulo polêmico na última sexta-feira (16), quando o senador Eduardo Girão (Novo-CE) defendeu abertamente a proibição total das plataformas de apostas online no país. Em pronunciamento contundente no Plenário do Senado, Girão não poupou críticas ao setor e chegou a classificar a situação como uma "tragédia humanitária".',
+    '"Nós precisamos barrar essa tragédia humanitária que são as <em>bets</em>. Só poucos ganham: magnatas. E quem perde são milhões", declarou o senador, que revelou ter um projeto de lei para proibir novamente as apostas esportivas no Brasil.',
   ],
   sections: [
     {
-      heading: "O Desejo de Voltar e o Histórico de Sucesso",
+      heading: "Críticas ao Endividamento e Vício",
       paragraphs: [
-        "Roger Guedes nunca escondeu o carinho pelo futebol brasileiro e, após uma passagem lucrativa pelo Catar, a saudade de casa e a vontade de disputar novamente competições de alto nível no Brasil parecem ter pesado. Aos 28 anos (idade em maio de 2025), o atacante está no auge de sua forma física e técnica, o que o torna uma peça extremamente cobiçada.",
-        "Seu histórico de sucesso em grandes clubes brasileiros credencia essa disputa. No Palmeiras, despontou como uma grande promessa. No Atlético-MG, teve passagem marcante com gols importantes. E no Corinthians, viveu seu auge, tornando-se ídolo da Fiel com atuações decisivas e faro de gol apurado, sendo peça chave na conquista de títulos.",
+        "O parlamentar responsabilizou diretamente o setor de apostas pelo aumento do endividamento das famílias brasileiras e pela escalada nos casos de dependência em jogos. A preocupação com o impacto social das apostas tem sido recorrente em seus discursos, especialmente após a regulamentação do setor, que começou a operar oficialmente em janeiro deste ano.",
+        "Para os apostadores de plantão, a posição do senador representa uma ameaça concreta ao mercado que vem se consolidando no país. Caso propostas como a de Girão ganhem força no Congresso, o cenário regulatório pode mudar drasticamente nos próximos meses.",
       ],
     },
     {
-      heading: "Corinthians: A Vantagem do Coração e da Identificação",
+      heading: "Patrocínios no Futebol na Mira",
       paragraphs: [
-        "Para muitos, o Corinthians larga com uma certa vantagem emocional na disputa. A identificação de Guedes com o clube e a torcida é inegável. Sua passagem pelo Timão foi marcada por uma sintonia rara, e a Fiel sonha com o retorno do camisa 10 (ou o número que ele consagrou). Além do apelo afetivo, o Corinthians busca um jogador com o perfil de Guedes para qualificar seu setor ofensivo e voltar a brigar por títulos de expressão. A diretoria alvinegra, ciente do desejo da torcida, monitora de perto a situação e pode preparar uma engenharia financeira para viabilizar o negócio.",
-        "**Pontos a favor do Corinthians:**",
-        "*   Identificação com o clube e a torcida.",
-        "*   Protagonismo garantido no time.",
-        "*   Pressão da Fiel pela contratação.",
+        'Outro ponto destacado por Girão foi a forte presença das casas de apostas como patrocinadoras do futebol brasileiro. O senador criticou a dependência financeira da CBF e dos clubes em relação às empresas de <em>bets</em>, classificando essa relação como "prejudicial para o esporte".',
+        "Em um movimento que chamou atenção, Girão elogiou o técnico Filipe Luís, do Flamengo, por se recusar a participar de campanhas publicitárias de casas de apostas, mesmo treinando um clube patrocinado por essas plataformas.",
       ],
     },
     {
-      heading: "Flamengo: O Poderio Financeiro e a Chance de Mais Títulos",
+      heading: "Mercado Ilegal de Apostas Movimenta Milhões",
       paragraphs: [
-        "O Flamengo, com seu conhecido poderio financeiro e um elenco recheado de estrelas, surge como um forte concorrente. A possibilidade de disputar todos os títulos em um time altamente competitivo e a chance de adicionar mais troféus à sua galeria pessoal podem seduzir Roger Guedes. O Rubro-Negro busca constantemente qualificar seu já estrelado ataque, e a versatilidade de Guedes, que pode atuar pelos lados do campo ou mais centralizado, agrada à comissão técnica. Uma proposta financeira robusta do Flamengo poderia balançar qualquer jogador.",
-        "**Pontos a favor do Flamengo:**",
-        "*   Alto poder de investimento.",
-        "*   Elenco competitivo e chance de brigar por todos os títulos.",
-        "*   Estrutura de ponta.",
+        "Enquanto o debate sobre a regulamentação continua, um mercado paralelo de apostas esportivas está crescendo rapidamente no Brasil. Segundo dados recentes divulgados pelo site Aposta Legal, apenas nos primeiros dois meses de 2025, o Brasil registrou movimentação de aproximadamente R$ 350 milhões em apostas ilegais, com mais de 30 milhões de acessos a sites não regulamentados.",
+        'Os protagonistas desse cenário são os chamados "cambistas de bets", intermediários que facilitam apostas para casas não autorizadas e para pessoas impedidas de apostar pelos canais oficiais, como menores de idade. Esses intermediários usam principalmente as redes sociais para captar clientes, oferecendo condições aparentemente mais vantajosas, como prêmios maiores e bônus proibidos pela regulamentação.',
       ],
     },
     {
-      heading: "Atlético-MG: Reencontro com a Massa e Projeto Ambicioso",
+      heading: "Brasileirão 2025: Rodada 9 Promete Agitar as Apostas",
       paragraphs: [
-        "Correndo por fora, mas com suas próprias armas, está o Atlético-MG. Guedes já teve uma passagem positiva pelo Galo antes de ir para a China, e um reencontro com a apaixonada Massa Atleticana não está descartado. O clube mineiro, que também possui um projeto ambicioso e tem investido em grandes nomes, pode ver em Roger Guedes a peça que falta para consolidar um ataque ainda mais poderoso. A figura de um investidor ou um projeto esportivo convincente podem ser os trunfos do Atlético.",
-        "**Pontos a favor do Atlético-MG:**",
-        "*   Passagem anterior positiva pelo clube.",
-        "*   Projeto esportivo ambicioso.",
-        "*   Apoio de investidores pode viabilizar a negociação.",
+        "Enquanto o cenário regulatório segue em discussão, o Campeonato Brasileiro 2025 continua a todo vapor, com a nona rodada prometendo fortes emoções para torcedores e apostadores. O fim de semana será marcado por quatro clássicos estaduais de alta rivalidade: Flamengo x Botafogo, Corinthians x Santos, Cruzeiro x Atlético-MG e Bahia x Vitória.",
+        'Para os apostadores, esses duelos representam excelentes oportunidades, mas também desafios únicos. Afinal, em clássicos, como diz o velho ditado do futebol, "a tabela não importa" - o que pode gerar resultados surpreendentes e odds atraentes.',
+        "A rodada começa neste sábado (17/05) com três partidas e continua no domingo com mais sete jogos. Os destaques ficam por conta dos clássicos estaduais, que devem movimentar significativamente as casas de apostas em todo o país.",
       ],
     },
     {
-      heading: "O Que Pesa na Decisão de Guedes?",
+      heading: "Dicas para Apostadores",
       paragraphs: [
-        "A decisão de Roger Guedes certamente envolverá múltiplos fatores:",
-        "*   **Projeto Esportivo:** A chance de ser protagonista e brigar por títulos importantes.",
-        "*   **Questões Financeiras:** Salário, luvas e a estabilidade do contrato.",
-        "*   **Adaptação Familiar:** O bem-estar da família no retorno ao Brasil.",
-        "*   **Relacionamento com Treinador e Elenco:** A perspectiva de trabalhar em um ambiente favorável.",
-      ],
-    },
-    {
-      heading: "O Impacto no Brasileirão e nas Apostas",
-      paragraphs: [
-        "A chegada de um jogador do calibre de Roger Guedes a qualquer um desses gigantes certamente mudaria o patamar da equipe e teria um impacto direto na dinâmica do Brasileirão. As odds para títulos e artilharia seriam reavaliadas, e o clube que o contratar ganharia um enorme reforço de mídia e engajamento.",
-        "Para os apostadores, a definição do futuro de Guedes é um prato cheio. Acompanhar de perto essa novela pode render boas oportunidades de apostas futuras, seja no desempenho individual do jogador ou nos resultados de sua nova equipe.",
-        "O RedeDePalpites continuará de olho em cada capítulo dessa disputa emocionante! E você, torcedor, onde acha que Roger Guedes vai jogar?",
+        "Para quem deseja apostar com segurança e dentro da legalidade, o RedeDePalpites recomenda:",
+        "1. <strong>Verifique a licença</strong>: Aposte apenas em casas autorizadas pela Secretaria de Prêmios e Apostas do Ministério da Fazenda.",
+        "2. <strong>Desconfie de ofertas muito vantajosas</strong>: Se o prêmio parece bom demais para ser verdade, provavelmente é um golpe.",
+        '3. <strong>Nunca faça depósitos adicionais para "liberar prêmios"</strong>: Esta é uma tática comum de golpistas.',
+        "4. <strong>Evite intermediários</strong>: Aposte diretamente nas plataformas oficiais das casas de apostas.",
+        "5. <strong>Denuncie atividades suspeitas</strong>: Contribua para um mercado mais seguro reportando sites e perfis que promovem apostas ilegais.",
+        "O RedeDePalpites continuará acompanhando de perto os desdobramentos do mercado de apostas esportivas no Brasil e trazendo as melhores análises para você fazer suas apostas com segurança e conhecimento.",
       ],
     },
   ],
   footer: [
-    "<strong>Palavras-chave:</strong> Roger Guedes, Mercado da Bola, Transferências Futebol, Corinthians, Flamengo, Atlético-MG, Brasileirão 2025, Futebol Brasileiro, Contratações.",
+    "<strong>Palavras-chave:</strong> Apostas Esportivas, Regulamentação Bets, Mercado Ilegal Apostas, Brasileirão 2025, Clássicos Estaduais, Dicas Apostadores, Segurança nas Apostas.",
   ],
 };
 
